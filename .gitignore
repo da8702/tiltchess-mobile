@@ -46,3 +46,7 @@ app.*.map.json
 
 # Secrets
 env.json
+.env
+*.keystore
+**/GoogleService-Info.plist
+**/firebase_options.dart
